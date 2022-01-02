@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1639578966 source:\\fs1-enseig-v\bureau$\amerach_\bureau\tp_dev_app\arbre.c
+	"Arbre.h"
+	<stdio.h>
+	<stdlib.h>
+
+1639576067 \\fs1-enseig-v\bureau$\amerach_\bureau\tp_dev_app\arbre.h
+
+1639577573 source:\\fs1-enseig-v\bureau$\amerach_\bureau\tp_dev_app\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arbre.h"
+
+1640874325 source:c:\users\aymer\onedrive\bureau\c\tp_dev_app\arbre.c
+	"Arbre.h"
+	<stdio.h>
+	<stdlib.h>
+
+1640870845 c:\users\aymer\onedrive\bureau\c\tp_dev_app\arbre.h
+
+1640872522 source:c:\users\aymer\onedrive\bureau\c\tp_dev_app\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arbre.h"
+
+1640872522 source:c:\users\foot5\onedrive\bureau\tp_dev_app (1)\tp_dev_app\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arbre.h"
+
+1640957350 c:\users\foot5\onedrive\bureau\tp_dev_app (1)\tp_dev_app\arbre.h
+
+1640967601 source:c:\users\foot5\onedrive\bureau\tp_dev_app (1)\tp_dev_app\arbre.c
+	"Arbre.h"
+	<stdio.h>
+	<stdlib.h>
+
+1641163386 source:c:\users\aymer\onedrive\bureau\tp_dev_app (1)\tp_dev_app\arbre.c
+	"Arbre.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641150534 c:\users\aymer\onedrive\bureau\tp_dev_app (1)\tp_dev_app\arbre.h
+	<stdio.h>
+
+1641163424 source:c:\users\aymer\onedrive\bureau\tp_dev_app (1)\tp_dev_app\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Arbre.h"
+	<string.h>
+
